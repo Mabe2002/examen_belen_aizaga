@@ -1,41 +1,41 @@
-Country,GDP per capita (USD),Life satisfaction
-Afghanistan,19705.602,25.229
-Albania,13191.952,51.174
-Algeria,10735.383,48.871
-Argentina,19690.662,59.293
-Armenia,12619.893,52.826
-Australia,48678.684,71.835
-Austria,51857.69,72.678
-Azerbaijan,13726.77,51.708
-Bahrain,41480.58,66.469
-Bangladesh,48714.463,50.246
-Belarus,19186.775,55.335
-Belgium,48769.727,6.834
-Benin,33231.445,50.452
-Bolivia,7845.171,57.159
-Bosnia and Herzegovina,14509.266,58.131
-Botswana,14654.651,34.665
-Bulgaria,22379.094,52.655
-Burkina Faso,21557.693,48.338
-Burundi,73106.323,37.753
-Cambodia,41915.664,48.304
-Cameroon,36664.106,51.418
-Canada,46064.254,71.033
-Chad,15190.367,43.554
-Chile,23324.525,61.719
-China,16315.815,53.391
-Colombia,13448.933,60.124
-Comoros,29891.704,42.886
-Congo,3433.959,53.417
-Costa Rica,19903.14,70.694
-Cote d'Ivoire,5181.311,5.306
-Croatia,27076.979,58.817
-Cyprus,38816.094,62.235
-Czechia,38511.27,69.647
-Denmark,55819.91,76.195
-Dominican Republic,17003.014,55.451
-Ecuador,10329.199,5.764
-Egypt,11951.447,42.827
-El Salvador,7982.626,60.605
-Estonia,35257.16,61.888
-Eswatini,8404.728,43.081
+Country;GDP per capita (USD);Life satisfaction
+Afghanistan;19705.602;25.229
+Albania;13191.952;51.174
+Algeria;10735.383;48.871
+Argentina;19690.662;59.293
+Armenia;12619.893;52.826
+Australia;48678.684;71.835
+Austria;51857.69;72.678
+Azerbaijan;13726.77;51.708
+Bahrain;41480.58;66.469
+Bangladesh;48714.463;50.246
+Belarus;19186.775;55.335
+Belgium;48769.727;6.834
+Benin;33231.445;50.452
+Bolivia;7845.171;57.159
+Bosnia and Herzegovina;14509.266;58.131
+Botswana;14654.651;34.665
+Bulgaria;22379.094;52.655
+Burkina Faso;21557.693;48.338
+Burundi;73106.323;37.753
+Cambodia;41915.664;48.304
+Cameroon;36664.106;51.418
+Canada;46064.254;71.033
+Chad;15190.367;43.554
+Chile;23324.525;61.719
+China;16315.815;53.391
+Colombia;13448.933;60.124
+Comoros;29891.704;42.886
+Congo;3433.959;53.417
+Costa Rica;19903.14;70.694
+Cote d'Ivoire;5181.311;5.306
+Croatia;27076.979;58.817
+Cyprus;38816.094;62.235
+Czechia;38511.27;69.647
+Denmark;55819.91;76.195
+Dominican Republic;17003.014;55.451
+Ecuador;10329.199;5.764
+Egypt;11951.447;42.827
+El Salvador;7982.626;60.605
+Estonia;35257.16;61.888
+Eswatini;8404.728;43.081
